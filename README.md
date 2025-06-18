@@ -16,7 +16,7 @@ A simple and interactive Tic Tac Toe (Noughts and Crosses) game created using HT
 
 ## 🚀 How to Run
 1. Clone or download this repository
-2. Open `index.html` in your browser
+2. Open `start-game.html` in your browser
 3. Start playing!
 
 ## 📷 Screenshots
